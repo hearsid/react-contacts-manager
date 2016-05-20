@@ -10,6 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/hearsid/react-contacts-manager.git"
   },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+"browser-sync":"*" ,
+"gulp-live-server":"*" ,
+"browserify":"*" ,
+    "reactify" : "*" ,
+    "vinyl-source-stream":"*"
+
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
